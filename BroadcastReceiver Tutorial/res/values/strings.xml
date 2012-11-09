@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">BroadcastReceiver Tutorial</string>
+    <string name="title_activity_main">Broadcast Tutorial</string>
+
+</resources>
